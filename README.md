@@ -1,4 +1,4 @@
-# cd_grade
+# tmu_cs_grade_calculation
 
 都立大情報科学科用の単位不足計算
 
